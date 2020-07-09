@@ -111,7 +111,7 @@ client.on('message', msg => {
           "url": "https://cdn.discordapp.com/attachments/713418631005863956/730785203924107374/MOSHED-2020-7-9-15-58-26.gif"
         },
         "author": {
-          "name": "Bot made by ! !" .Nozi・ΣPSILΘИ#1337",
+          "name": "Bot made by !PandaTjuuhhh!#2424 and Jochem_Legend274112",
           "url": "https://cdn.discordapp.com/avatars/672167231135809594/a_91d1a26a8a075e272c62d8e89954097f.gif?size=4096.gif",
           "icon_url": "https://cdn.discordapp.com/avatars/672167231135809594/a_91d1a26a8a075e272c62d8e89954097f.gif?size=4096.gif"
         },
