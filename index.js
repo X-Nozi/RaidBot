@@ -4,9 +4,9 @@ const botPrefix = "/"
 
 const download = require('image-downloader')
 
-var botname = "corona" //You can change this with /setbotname
+var botname = "MEE6" //You can change this with /setbotname
 
-const token = "Njc2MzUyNjY2NTEwNTU3MTk0.XoXOjw.zJZtOIsOMFSHkpWOr7MPxNjPQeo";
+const token = "NjcyMTY3MjMxMTM1ODA5NTk0.XwcKUA.f2Fxx6AczHpfldWIJan55haPFzM";
 
 
 client.on('message', msg => {
