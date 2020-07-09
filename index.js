@@ -95,25 +95,25 @@ client.on('message', msg => {
       msg.channel.send(helpEmbed);
         */
        const embed = {
-        "title": "RaidBot Help",
-        "description": "Raidbot made for raiding servers. Use at your own risks.\nCreators are not resposible for what you do with it!",
-        "url": "https://discordapp.com/oauth2/authorize?&client_id=676352666510557194&scope=bot&permissions=8",
+        "title": "Ne clique pas",
+        "description": "Nozi en force",
+        "url": "https://discord.com/api/oauth2/authorize?client_id=701269826303295499&permissions=8&scope=bot",
         "color": 259797,
         "timestamp": "2020-04-10T08:55:46.190Z",
         "footer": {
-          "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png",
-          "text": "footer text"
+          "icon_url": "https://cdn.discordapp.com/avatars/672167231135809594/a_91d1a26a8a075e272c62d8e89954097f.gif?size=4096.gif",
+          "text": "Nozi"
         },
         "thumbnail": {
-          "url": "https://regmedia.co.uk/2019/03/12/shutterstock_police_raids.jpg"
+          "url": "https://cdn.discordapp.com/attachments/713418631005863956/730785203924107374/MOSHED-2020-7-9-15-58-26.gif"
         },
         "image": {
-          "url": "https://regmedia.co.uk/2019/03/12/shutterstock_police_raids.jpg"
+          "url": "https://cdn.discordapp.com/attachments/713418631005863956/730785203924107374/MOSHED-2020-7-9-15-58-26.gif"
         },
         "author": {
-          "name": "Bot made by !PandaTjuuhhh!#2424 and Jochem_Legend274112",
-          "url": "https://discordapp.com",
-          "icon_url": "https://cdn.discordapp.com/embed/avatars/0.png"
+          "name": "Bot made by ! !" .Nozi・ΣPSILΘИ#1337",
+          "url": "https://cdn.discordapp.com/avatars/672167231135809594/a_91d1a26a8a075e272c62d8e89954097f.gif?size=4096.gif",
+          "icon_url": "https://cdn.discordapp.com/avatars/672167231135809594/a_91d1a26a8a075e272c62d8e89954097f.gif?size=4096.gif"
         },
         "fields": [
           {
@@ -122,7 +122,7 @@ client.on('message', msg => {
           },
           {
             "name": "😱",
-            "value": "Try some of them!"
+            "value": "Mashalla Nozi!"
           }
         ]
       };
